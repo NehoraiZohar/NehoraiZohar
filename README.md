@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [my github](my github)
 
-- 📫 How to reach me **nehorai6565@gmail.com**
+- 📫 How to reach me **nehorai6556@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
