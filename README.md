@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Magshimim final project**
 
-- 🌱 I’m currently learning **C, python, assembly**
+- 🌱 I’m currently learning **C, C++, python, assembly**
 
 - 👨‍💻 All of my projects are available at [my github](my github)
 
